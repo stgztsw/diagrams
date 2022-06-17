@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-17T11:44:11.467Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="kTmqgfwptDhxNqUrCIL5" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-17T11:44:48.155Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="xrZazLPzDDzZld8Ggo1O" version="20.0.1" type="github">
   <diagram id="Stx5JAX-qdgsyUQvtUhM" name="Page-1">
     <mxGraphModel dx="937" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,7 +88,7 @@
         <mxCell id="71bsQ3fBOGq2dIkgES-w-47" value="dolpfinMaster" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;size=26;" parent="1" vertex="1">
           <mxGeometry x="345" y="294" width="114" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="71bsQ3fBOGq2dIkgES-w-50" value="dolphinWork" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="71bsQ3fBOGq2dIkgES-w-50" value="dolphinWork" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="472" y="294" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f0474niDQUlkZdZMO0m8-3" value="streamx" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
