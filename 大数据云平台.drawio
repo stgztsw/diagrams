@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-18T08:08:12.236Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="2pe6Gy-L0n0KpIcOs09D" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-18T08:08:45.416Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="10MqavYUIYzI6m4rRjWM" version="20.0.1" type="github">
   <diagram id="Stx5JAX-qdgsyUQvtUhM" name="Page-1">
     <mxGraphModel dx="750" dy="372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
         <mxCell id="71bsQ3fBOGq2dIkgES-w-30" value="Hbase" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="492" y="350" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="71bsQ3fBOGq2dIkgES-w-31" value="&lt;span style=&quot;&quot;&gt;Clickhouse/doris&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="71bsQ3fBOGq2dIkgES-w-31" value="&lt;span style=&quot;&quot;&gt;doris&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="614" y="350" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="71bsQ3fBOGq2dIkgES-w-32" value="" style="line;strokeWidth=2;html=1;dashed=1;" parent="1" vertex="1">
