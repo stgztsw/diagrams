@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T09:54:14.573Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="_LH3jnSsHK7bXLGKUi0v" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-21T11:08:27.149Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="NLi8T9xkObvrjJDSFgLC" version="20.0.1" type="github">
   <diagram id="Stx5JAX-qdgsyUQvtUhM" name="Page-1">
     <mxGraphModel dx="937" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="64" y="510" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="71bsQ3fBOGq2dIkgES-w-9" value="k8s" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="142" y="510" width="602" height="30" as="geometry" />
+          <mxGeometry x="440" y="510" width="304" height="30" as="geometry" />
         </mxCell>
         <mxCell id="71bsQ3fBOGq2dIkgES-w-10" value="数据存储" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="65" y="430" width="60" height="30" as="geometry" />
@@ -103,8 +103,11 @@
         <mxCell id="dX7mE__AFyakDy_ju7Y1-6" value="kyuubi" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="220" y="326" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2WgDr4XJ2Vin9T-NBg1W-1" value="hdfs" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="2WgDr4XJ2Vin9T-NBg1W-1" value="hdfs" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="144" y="451" width="286" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_qUXB8ljSRvc9fDxW8by-1" value="yarn" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="144" y="510" width="290" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
