@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T03:22:51.681Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="NPIxPJnzOYrv0fzHHpT1" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-12T03:26:33.833Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="6NBkCMLBlnYhG1r0Kg7S" version="20.2.8" type="github">
   <diagram name="Page-1" id="74b105a0-9070-1c63-61bc-23e55f88626e">
-    <mxGraphModel dx="946" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1581" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -23,13 +23,16 @@
           <mxGeometry x="251" y="180" width="139" height="140" as="geometry" />
         </mxCell>
         <mxCell id="HUmmBEnXE_2QKr82iRTp-7" value="15分钟各故障累计" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="HUmmBEnXE_2QKr82iRTp-5">
-          <mxGeometry y="68" width="120" height="30" as="geometry" />
+          <mxGeometry y="55" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HUmmBEnXE_2QKr82iRTp-8" value="30分钟各故障累计" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="HUmmBEnXE_2QKr82iRTp-5">
-          <mxGeometry y="97" width="120" height="30" as="geometry" />
+          <mxGeometry y="83" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HUmmBEnXE_2QKr82iRTp-15" value="10分钟各故障累计" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="HUmmBEnXE_2QKr82iRTp-5">
-          <mxGeometry x="-1" y="40" width="120" height="30" as="geometry" />
+          <mxGeometry x="-1" y="27" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HUmmBEnXE_2QKr82iRTp-78" value="机器人状态" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="HUmmBEnXE_2QKr82iRTp-5">
+          <mxGeometry x="9" y="110" width="91" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HUmmBEnXE_2QKr82iRTp-3" value="云端机器人状态" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="40" y="212" width="100" height="80" as="geometry" />
@@ -37,10 +40,10 @@
         <mxCell id="HUmmBEnXE_2QKr82iRTp-4" value="......" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="40" y="300" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HUmmBEnXE_2QKr82iRTp-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.017;entryY=1.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HUmmBEnXE_2QKr82iRTp-3" target="HUmmBEnXE_2QKr82iRTp-15">
+        <mxCell id="HUmmBEnXE_2QKr82iRTp-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.009;entryY=0.731;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="HUmmBEnXE_2QKr82iRTp-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="330" y="310" as="sourcePoint" />
-            <mxPoint x="380" y="260" as="targetPoint" />
+            <mxPoint x="140" y="257" as="sourcePoint" />
+            <mxPoint x="247.96000000000004" y="244.01" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HUmmBEnXE_2QKr82iRTp-22" value="" style="endArrow=none;html=1;rounded=0;exitX=1.02;exitY=0.588;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
@@ -51,8 +54,8 @@
         </mxCell>
         <mxCell id="HUmmBEnXE_2QKr82iRTp-23" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="209" y="250" as="sourcePoint" />
-            <mxPoint x="209" y="167" as="targetPoint" />
+            <mxPoint x="209" y="253" as="sourcePoint" />
+            <mxPoint x="209" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HUmmBEnXE_2QKr82iRTp-24" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="HUmmBEnXE_2QKr82iRTp-4">
